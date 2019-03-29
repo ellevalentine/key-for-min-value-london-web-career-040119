@@ -3,4 +3,9 @@
 
 def key_for_min_value(name_hash)
 
+key_for_min_value.collect do |key, value|
+     key
+ end
+
+
 end
